@@ -1,1 +1,1 @@
-7-print_last_digit.c
+9-times_table.c
