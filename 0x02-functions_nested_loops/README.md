@@ -1,1 +1,1 @@
-8-24_hours.c
+7-print_last_digit.c
